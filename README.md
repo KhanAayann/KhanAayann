@@ -27,6 +27,10 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/kiyotaka-koji-0/kiyotaka-koji-0/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
 </div>
