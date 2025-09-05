@@ -46,8 +46,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kiyotaka-koji-0/count.svg?"  />
 </div>
-
-###
-
----
-[![](https://visitcount.itsvg.in/api?id=kiyotaka-koji-0&icon=2&color=0)](https://visitcount.itsvg.in)
