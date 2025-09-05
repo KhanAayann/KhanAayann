@@ -40,9 +40,3 @@
 <div align="center">
   <img height="200" src="https://i.ytimg.com/vi/dus1F92OynE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCognxOU6BehjvVvS5ojwbZ_1i2dg"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kiyotaka-koji-0/count.svg?"  />
-</div>
