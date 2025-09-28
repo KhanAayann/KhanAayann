@@ -13,7 +13,7 @@
                         ░                                   
 ```
 
-![screen-gif](./assets/cp2221.gif)
+![screen-gif](./assets/cp2221.gif) 
  
  
 ### Hello, I’m Aayan Khan.
@@ -72,3 +72,4 @@ Here are some ideas to get you started:
 
 
 </div>
+
