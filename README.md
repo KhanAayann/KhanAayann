@@ -18,7 +18,7 @@
  
 ### Hello, I’m Aayan Khan.
 
-I do hacking stuff...
+I do coding stuff...
 
 Check out my website at https://foxmaccloud.com/
 
@@ -69,5 +69,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 ##### A Smooth Sea Never Made a Skilled Sailor
+
 
 </div>
