@@ -51,25 +51,11 @@ Check out my website at https://foxmaccloud.com/
  ###### Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
-<!--
-**FoxMaccloud/FoxMaccloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 <div align="center">
 
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 
 </div>
+
 
