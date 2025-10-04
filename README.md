@@ -30,7 +30,7 @@ Check out my website at https://foxmaccloud.com/
   <img align="center" alt="Aayan Khan | Discord" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/discord-round.svg" />
 </a>
 
-
+ 
 </div>
 
 ---
@@ -56,6 +56,7 @@ Check out my website at https://foxmaccloud.com/
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
+
 
 
 
