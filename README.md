@@ -18,7 +18,7 @@
  
 ### Hello, I’m Aayan Khan.
 
-I do coding stuff...
+I am a Computer Science student passionate about coding and technology....
 
 Check out my Profile at https://guns.lol/professordev/
 
@@ -58,6 +58,7 @@ Check out my Profile at https://guns.lol/professordev/
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
+
 
 
 
