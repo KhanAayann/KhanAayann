@@ -43,7 +43,7 @@ Check out my Profile at https://guns.lol/professordev/
 </div>
 
 <div align="center">
-## 🛠️ Languages
+ 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -58,6 +58,7 @@ Check out my Profile at https://guns.lol/professordev/
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
+
 
 
 
