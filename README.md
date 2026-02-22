@@ -20,7 +20,7 @@
 
 I do coding stuff...
 
-Check out my Profile at [](https://guns.lol/professordev)/
+Check out my Profile at https://guns.lol/professordev/
 
 <a href="https://x.com/AmnaIshtiaq14">
   <img align="center" alt="Aayan Khan | Twitter" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/twitter.svg" />
@@ -55,6 +55,7 @@ Check out my Profile at [](https://guns.lol/professordev)/
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
+
 
 
 
