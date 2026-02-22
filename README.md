@@ -37,7 +37,7 @@ Check out my Profile at https://guns.lol/professordev/
 
 <div align="left">
 
- If you wanna reach out to me, you can hit me up on [Twitter](https://x.com/AmnaIshtiaq14) or [Discord](https://discord.gg/bjKUZ23xey).
+ If you wanna reach out to me, you can hit me up on [Twitter](https://x.com/AmnaIshtiaq14) or [Outlook](Aayan.Buisness@outlook.com).
 
  More info on my website.
 
@@ -55,6 +55,7 @@ Check out my Profile at https://guns.lol/professordev/
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
+
 
 
 
