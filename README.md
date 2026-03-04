@@ -51,7 +51,7 @@ Check out my Profile at https://guns.lol/professordev/
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
- ###### Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ ###### Note: Top languages is only a metric of the Languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
 <div align="center">
@@ -59,6 +59,7 @@ Check out my Profile at https://guns.lol/professordev/
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
+
 
 
 
