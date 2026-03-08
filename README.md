@@ -10,7 +10,7 @@
   ▒ ░ ░   ░ ░  ░░ ░ ▒  ░  ░  ▒     ░ ▒ ▒░ ░  ░      ░ ░ ░  ░
   ░   ░     ░     ░ ░   ░        ░ ░ ░ ▒  ░      ░      ░   
     ░       ░  ░    ░  ░░ ░          ░ ░         ░      ░  ░
-                        ░                                    
+                        ░                                     
 ```     
 
 ![screen-gif](./assets/cp2221.gif) 
@@ -59,6 +59,7 @@ Check out my Profile at https://guns.lol/professordev/
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
+
 
 
 
