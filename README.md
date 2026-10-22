@@ -15,7 +15,7 @@
  
 ![screen-gif](./assets/cp2221.gif)  
   
- 
+  
 ### Hello, I’m Aayan Khan.
 
 I am a Computer Science student passionate about coding and technology....
